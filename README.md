@@ -29,11 +29,11 @@ FERRATE To blind by a red-hot metal plate held before the eyes.
 
 ## Acknowledgments
 
-- Webster's Unabridged English Dictionary provided by [Project Gutenberg](http://www.gutenberg.org/)
+Webster's Unabridged English Dictionary provided by [Project Gutenberg](http://www.gutenberg.org/)
 
 ## Author
 
-**Sam Stokes**
+Sam Stokes
 
 ## License
 
