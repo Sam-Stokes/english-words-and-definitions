@@ -4,7 +4,7 @@
 
 ## Notes
 
-* It contains a Jupyter Notebook file which isolates all (3 letter plus) English words and their corresponding definitions.
+* It contains a Jupyter Notebook file which isolates all (3 letter plus) English words and their corresponding definitions using Regular Expression and Python.
 * The Notebook can be used as a basis for your own projects using [Regular Expression](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference).
 
 ## Features
