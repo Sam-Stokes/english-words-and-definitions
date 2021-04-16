@@ -1,6 +1,6 @@
 # English Dictionary Words and Definitions
 
-> This repository hosts [Webster's Unabridged English Dictionary in a txt file format](https://www.gutenberg.org/ebooks/29765) (from the Gutenberg Project, compiled August 22, 2009).
+> This repository hosts [Webster's Unabridged English Dictionary](https://www.gutenberg.org/ebooks/29765) in a text file format (from the Gutenberg Project, compiled August 22, 2009).
 
 ## Notes
 
